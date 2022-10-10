@@ -1,9 +1,11 @@
 
 #Zadanie 2a
-def Zadanie2a(imie1,imie2,imie3,imie4,imie5):
-    print("{} {} {} {} {}".format(imie1,imie2,imie3,imie4,imie5))
+imiona=["Sebastian","Esteban","Fernando","Sergio","Nyck"]
+def Zadanie2a(lista):
+    for x in lista:
+        print(x)
+Zadanie2a(imiona)
 
-Zadanie2a("Sebastian","Esteban","Fernando","Sergio","Nyck")
 
 #Zadanie 2b
 def Zadanie2bI(lista):
