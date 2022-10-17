@@ -51,7 +51,7 @@ Ksiazka4= Book(Biblioteka2,'5-5-1955','Karun','Chandok',71)
 Ksiazka5= Book(Biblioteka2,'4-9-1997','Jamie','Chadwick',754)
 
 Prac1= Employee("Anthony","Croft","21-12-2004","6-7-1987","Katowice","Adamskiego","40-200","650 054 124")
-Prac2= Employee("Jack","Davidson","12-7-2000","4-7-1997","Zabrze","Przejazdowa","42-200","650 478 659")
+Prac2= Employee("Jack","Davidson","12-7-2000","4-7-1997","Zabrze","Przejazdowa","42-200","650 477 659")
 
 Zam1 = Order(Prac1,"Student 1",[Ksiazka1,Ksiazka2],"17-10-2022")
 print(Zam1)
